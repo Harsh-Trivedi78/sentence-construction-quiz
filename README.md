@@ -77,6 +77,9 @@ Utility-first classes from Tailwind CSS provide consistent styling across all de
 ### Animations and Transitions
 Smooth animations and hover effects create a dynamic user experience, with interactive transitions for buttons, progress bars, and other UI elements 🎨
 
+## 📤 Deployment
+This project is deployed using Netlify for seamless continuous deployment from the GitHub repository. Any changes pushed to the main branch are automatically deployed to the live site.
+
 
 ## 🚀 Setup & Installation
 
@@ -85,9 +88,6 @@ Smooth animations and hover effects create a dynamic user experience, with inter
 Ensure you have the following installed:
 - Node.js (version 16.0 or higher)
 - npm (or yarn)
-
-## 📤 Deployment
-This project is deployed using Netlify for seamless continuous deployment from the GitHub repository. Any changes pushed to the main branch are automatically deployed to the live site.
 
 
 ### Installation Steps
