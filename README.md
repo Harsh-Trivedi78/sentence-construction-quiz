@@ -4,7 +4,7 @@ A fun and engaging React-based quiz app that helps you improve your sentence con
 
 Test your ability to form sentences by arranging provided words in the correct order, with a timer adding excitement to each challenge. ⏱️
 
-![Quiz App Screenshot](https://via.placeholder.com/800x450)
+
 
 ## 📝 Overview
 
