@@ -47,7 +47,7 @@ The sleek UI incorporates Glassmorphism design, smooth animations, and interacti
 - **Lucide Icons**: Minimalistic, high-quality icons for UI elements
 - **ShadCN**: Enhanced UI components with modern design trends
 - **React Hooks**: For managing component state and lifecycle
-- 
+
 ## 📦 Usage
 
 ### Landing Page
